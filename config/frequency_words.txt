@@ -230,6 +230,8 @@
 [AI 相关]
 /(?<![a-zA-Z])ai(?![a-zA-Z])/
 人工智能
+具身智能
+Embodied Intelligence
 
 [芯片]
 芯片
